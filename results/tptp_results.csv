@@ -1,3 +1,0 @@
-scope,label,source,tier,n,n_provable,n_unprovable,b_solved,b_correct,b_acc_pct,b_prov_acc_pct,b_unprov_acc_pct,b_time_ms,i_solved,i_correct,i_acc_pct,i_prov_acc_pct,i_unprov_acc_pct,i_time_ms,i_better,b_better,both_correct,both_wrong,i_better_prov,b_better_prov,i_better_unprov,b_better_unprov
-tier,tptp/SYN,tptp,SYN,100,89,11,46,55,55.0,51.7,81.8,1362845.234,48,55,55.0,53.9,63.6,1329432.763,3,3,52,42,3,1,0,2
-grand_total,TOTAL,,,100,89,11,46,55,55.0,51.7,81.8,1362845.234,48,55,55.0,53.9,63.6,1329432.763,3,3,52,42,3,1,0,2
