@@ -1,0 +1,17 @@
+scope,label,source,tier,n,n_provable,n_unprovable,b_solved,b_correct,b_acc_pct,b_prov_acc_pct,b_unprov_acc_pct,b_time_ms,i_solved,i_correct,i_acc_pct,i_prov_acc_pct,i_unprov_acc_pct,i_time_ms,i_better,b_better,both_correct,both_wrong,i_better_prov,b_better_prov,i_better_unprov,b_better_unprov
+tier,generated/propositional,generated,propositional,27,21,6,21,27,100.0,100.0,100.0,2.116,21,27,100.0,100.0,100.0,4.522,0,0,27,0,0,0,0,0
+tier,generated/easy,generated,easy,16,12,4,12,16,100.0,100.0,100.0,13.232,12,16,100.0,100.0,100.0,35.511,0,0,16,0,0,0,0,0
+tier,generated/medium,generated,medium,13,10,3,10,13,100.0,100.0,100.0,145.888,10,13,100.0,100.0,100.0,403.987,0,0,13,0,0,0,0,0
+tier,generated/hard,generated,hard,9,8,1,8,9,100.0,100.0,100.0,32.492,8,9,100.0,100.0,100.0,11.842,0,0,9,0,0,0,0,0
+tier,classical/propositional,classical,propositional,11,9,2,9,11,100.0,100.0,100.0,0.394,9,11,100.0,100.0,100.0,1.872,0,0,11,0,0,0,0,0
+tier,classical/easy,classical,easy,6,4,2,4,6,100.0,100.0,100.0,7.592,4,6,100.0,100.0,100.0,34.243,0,0,6,0,0,0,0,0
+tier,classical/medium,classical,medium,3,2,1,2,3,100.0,100.0,100.0,41.398,2,3,100.0,100.0,100.0,146.987,0,0,3,0,0,0,0,0
+tier,classical/hard,classical,hard,2,2,0,2,2,100.0,100.0,,5.224,2,2,100.0,100.0,,1.229,0,0,2,0,0,0,0,0
+tier,stress/propositional,stress,propositional,9,7,2,7,9,100.0,100.0,100.0,0.453,7,9,100.0,100.0,100.0,1.937,0,0,9,0,0,0,0,0
+tier,stress/easy,stress,easy,5,4,1,4,5,100.0,100.0,100.0,0.719,4,5,100.0,100.0,100.0,3.059,0,0,5,0,0,0,0,0
+tier,stress/medium,stress,medium,2,2,0,2,2,100.0,100.0,,3.619,2,2,100.0,100.0,,4.200,0,0,2,0,0,0,0,0
+tier,stress/hard,stress,hard,2,2,0,2,2,100.0,100.0,,14.527,2,2,100.0,100.0,,4.753,0,0,2,0,0,0,0,0
+source_total,generated,generated,,65,51,14,51,65,100.0,100.0,100.0,193.728,51,65,100.0,100.0,100.0,455.861,0,0,65,0,0,0,0,0
+source_total,classical,classical,,22,17,5,17,22,100.0,100.0,100.0,54.609,17,22,100.0,100.0,100.0,184.331,0,0,22,0,0,0,0,0
+source_total,stress,stress,,18,15,3,15,18,100.0,100.0,100.0,19.318,15,18,100.0,100.0,100.0,13.949,0,0,18,0,0,0,0,0
+grand_total,TOTAL,,,105,83,22,83,105,100.0,100.0,100.0,267.655,83,105,100.0,100.0,100.0,654.142,0,0,105,0,0,0,0,0
